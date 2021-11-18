@@ -1,16 +1,16 @@
-### Hi there 👋
+![Easy Frontend banner](https://res.cloudinary.com/kimwy/image/upload/v1598840121/easyfrontend/easy-frontend-banner-cropped_yjw0g0.jpg)
 
-<!--
-**longhophan/longhophan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Phan Long Hồ - Lập trình Front-End
 
-Here are some ideas to get you started:
+- Thân thiện cởi mở
+- Thích học hỏi, tìm hiểu về Front-End
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Working <a href="https://github.com/longhophan"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/kimwy/image/upload/v1598840300/easyfrontend/programming_hgngx9.png"></a>
+
+- `Associate Software Engineer` tại BSTAR SOLUTIONS
+
+## Projects
+
+- React-redux: https://github.com/longhophan/reddit-client
+- My project: https://github.com/longhophan/myproject
+
